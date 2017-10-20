@@ -30,7 +30,7 @@ As soluções para o desafio podem ser desenvolvidas nas seguintes linguagens de
 | C++ | C++14, C++17 | |
 | Java | OpenJDK 1.7.0, 1.8.0, 1.9.0 | [http://www.java.com]() |
 | Javascript | Node 6 ou superior | [http://www.nodejs.org]() |
-| Kotlin | 1.5 ou superior | |
+| Kotlin | 1.5 ou superior | [https://kotlinlang.org]() |
 | Python | 3.5 ou superior | [http://www.python.org]() |
 | Ruby | 2.3 ou superior | [http://ruby-lang.org]() |
 
